@@ -1,2 +1,2 @@
-# mijnEPDPrivacyPolicy
-De mijnEPD Privacy Policy
+# mijnEPDPrivacyPolicyEnOndersteuning
+De mijnEPD Privacy Policy en Ondersteuning
